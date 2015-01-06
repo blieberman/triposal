@@ -1,0 +1,12 @@
+New York, NY
+Chicago, IL
+Boston, MA
+Washington D.C.
+Montreal, Quebec
+San Francisco, CA
+Vancouver, British Columbia
+New Orleans, LA
+Honolulu, Hawaii
+San Antonio, TX
+Philadelphia, PA
+Savannah, GA

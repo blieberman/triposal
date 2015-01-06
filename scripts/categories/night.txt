@@ -1,0 +1,13 @@
+New York, NY
+Seattle, WA
+Chicago, IL
+Las Vegas, NV
+Boston, MA
+Philadelphia, PA
+Miami, FL
+New Orleans, LA
+San Francisco, CA
+Austin, TX
+Washington D.C.
+Key West, FL
+Nashville, TN

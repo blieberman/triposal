@@ -1,0 +1,62 @@
+Anaheim, CA, USA
+Anchorage, AK, USA
+Aspen, CO, USA
+Atlantic City, NJ, USA
+Austin, TX, USA
+Bandon, OR, USA
+Banff, Alberta, CA
+Biloxi, MS, USA
+Boston, MA, USA
+Chicago, IL, USA
+Cincinnati, OH, USA
+Dallas, TX, USA
+Daytona Beach, FL, USA
+Detroit, MI, USA
+Fort Lauderdale, FL, USA
+Hilton Head, SC, USA
+Honolulu, HI, USA
+Key West, FL, USA
+Killington, VT, USA
+Lake Tahoe, CA, USA
+Las Vegas, NV, USA
+Los Angeles, CA, USA
+Maui, HI, USA
+Miami, FL, USA
+Minneapolis, MN, USA
+Montreal, Quebec, CA
+Myrtle Beach, SC, USA
+Nashville, TN, USA
+New Orleans, LA, USA
+New York, NY, USA
+Ocean City, MD, USA
+Orlando, FL, USA
+Park City, UT, USA
+Philadelphia, PA, USA
+Phoenix, AZ, USA
+Pinehurst, NC, USA
+Pittsburgh, PA, USA
+Portland, OR, USA
+Rehobeth, DE, USA
+Reno, NV, USA
+Rock Island, IL, USA
+Salt Lake City, UT, USA
+San Antonio, TX, USA
+San Diego, CA, USA
+San Francisco, CA, USA
+Santa Barbara, CA, USA
+Savannah, GA, USA
+Scottsdale, AZ, USA
+Seattle, WA, USA
+Shreveport, LA, USA
+St. Louis, MO, USA
+Stowe, VT, USA
+Taos, NM, USA
+Tunica Resorts, MS, USA
+Uncasville, CT, USA
+Vail, CO, USA
+Vancouver, British Columbia, CA
+Virginia Beach, VA, USA
+Washington, DC, USA
+West Palm Beach, FL, USA
+Whistler, British Columbia, CA
+Williamsburg, VA, USA

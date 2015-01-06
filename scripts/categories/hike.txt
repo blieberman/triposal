@@ -1,0 +1,12 @@
+Chicago, IL
+Miami, FL
+Austin, TX
+Salt Lake City, UT
+San Francisco, CA
+Portland, OR
+Las Vegas, NV
+Seattle, WA
+Phoenix, AZ
+Washington, D.C.
+Philadelphia, PA
+New York, NY
