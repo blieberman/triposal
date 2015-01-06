@@ -2,3 +2,5 @@
 scripts/phpsqlajax_dbinfo.php
 .DS_Store
 angular-google-maps*
+ajax2*
+test*
