@@ -33,7 +33,7 @@
         center: myLatlng,
         mapTypeId: google.maps.MapTypeId.ROADMAP
       }
-      var query = "ajax.php?<?php echo $_SERVER['QUERY_STRING']; ?>";
+      var query = "ajax2.php?<?php echo $_SERVER['QUERY_STRING']; ?>";
       var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
       jQuery.get(query, {}, function(data) {
         jQuery(data).find("item").each(function() {
